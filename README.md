@@ -14,7 +14,7 @@ Ankit Bhusal
 # Project Title: Albert Einstein ChatBot
 Hello Everyone!
 
-Welcome! We are group Sigmoid from CSCI 4850-Neural Networks Course taught by Dr. Phillips at Middle Tennesse State University. The goal of our project was to build a generative chatbot trained on Albert Einstein's letters and research papers. 
+Welcome! We are group Sigmoid from CSCI 4850-Neural Networks Course taught by Dr. Phillips at Middle Tennessee State University. The goal of our project was to build a generative chatbot trained on Albert Einstein's letters and research papers. 
 We selected the transformer architecture for this task.
 
 # Prerequisites
