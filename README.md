@@ -28,8 +28,7 @@ Type: __pip install opencv-python__ to install python3.
 To use the interface, you will need to open a terminal and type __pip install gtts__.
 
 # Talk to Albert
-![readme_images](https://github.com/CSCI4850/s22-team3-project/blob/main/demo%20gif%20example.gif)
-
+Example video on how it works:
 https://drive.google.com/file/d/1gMj1u6bQFEngk9MFpjpDVmPair83t2dE/view?usp=sharing
 
 
